@@ -1,0 +1,9 @@
+créer une todo list
+quand on arrive sur la page home differente action sont possible
+- ajouter une tache
+- supprimer une tache
+- afficher les taches
+- quitter
+quand on ajoute une tache on doit pouvoir lui donner un nom et une description
+
+les données doivent être stockées dans un fichier json afin de ne pas les perdre entre chaque lancement de l'application
